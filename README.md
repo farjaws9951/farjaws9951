@@ -1,4 +1,8 @@
-## Hi there 👋
+## Courses Completed
+
+[![Boot.dev Learn Functional Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/442b51c2-1cde-4668-bc2d-59ca64bf9979.jpeg?v=1784106232)](https://www.boot.dev/certificates/442b51c2-1cde-4668-bc2d-59ca64bf9979)
+
+
 
 <!--
 **farjaws9951/farjaws9951** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
