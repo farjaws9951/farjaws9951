@@ -1,10 +1,15 @@
-## Courses Completed
+## Courses Being Worked On:
 
-[![Boot.dev Learn Functional Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/442b51c2-1cde-4668-bc2d-59ca64bf9979.jpeg?v=1784106232)](https://www.boot.dev/certificates/442b51c2-1cde-4668-bc2d-59ca64bf9979)
+Boot.Dev backend developer path.
 
 
 
 <!--
+[![Boot.dev Learn Functional Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/442b51c2-1cde-4668-bc2d-59ca64bf9979.jpeg?v=1784106232)](https://www.boot.dev/certificates/442b51c2-1cde-4668-bc2d-59ca64bf9979)
+
+[![Boot.dev Build Asteroids using Python and Pygame certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/9be2f0a4-a3d3-46b3-87ea-77254a59f4c3.jpeg?v=1783345861)](https://www.boot.dev/certificates/9be2f0a4-a3d3-46b3-87ea-77254a59f4c3)
+
+
 **farjaws9951/farjaws9951** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
