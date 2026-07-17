@@ -5,6 +5,9 @@ Boot.Dev backend developer path.
 
 
 <!--
+
+[![Boot.dev Build an AI Agent in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/6efe2b8f-3680-488a-bda6-71a38182d12a.jpeg?v=1784295349)](https://www.boot.dev/certificates/6efe2b8f-3680-488a-bda6-71a38182d12a)
+
 [![Boot.dev Learn Functional Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/442b51c2-1cde-4668-bc2d-59ca64bf9979.jpeg?v=1784106232)](https://www.boot.dev/certificates/442b51c2-1cde-4668-bc2d-59ca64bf9979)
 
 [![Boot.dev Build Asteroids using Python and Pygame certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/9be2f0a4-a3d3-46b3-87ea-77254a59f4c3.jpeg?v=1783345861)](https://www.boot.dev/certificates/9be2f0a4-a3d3-46b3-87ea-77254a59f4c3)
